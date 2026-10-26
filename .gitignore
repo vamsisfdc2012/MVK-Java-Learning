@@ -1,0 +1,26 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java compiled files
+*.class
+*.jar
+
+# Build directories
+out/
+target/
+build/
+
+# Gradle
+.gradle/
+
+# Logs
+*.log
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Environment and secrets
+.env
+.env.local
